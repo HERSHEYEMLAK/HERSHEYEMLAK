@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>HERSHEY EMLAK - Kiralık Daire & Villa Fethiye Foça Tuzla Babataşı Ölüdeniz Akarca Çarşı Kesikkapı Karagözler Esenköy Çamköy Karaçulha Kargı Çalış Çalıca Pazaryeri Taşyaka Patlangıç Günlükbaşı Yeni mahalle</title>
+  <title>HERSHEY EMLAK - Kiralık Daire & Villa Fethiye Foça Tuzla Babataşı Ölüdeniz Akarca Çarşı Kesikkapı Karagözler Esenköy Çamköy Karaçulha Kargı Çalış Pazaryeri Taşyaka Patlangıç</title>
   <style>
     body { font-family: Arial, sans-serif; max-width: 600px; margin: auto; padding: 20px; border:1px solid #ddd; }
     .logo { text-align: center; margin-bottom: 20px; }
